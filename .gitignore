@@ -7,4 +7,4 @@ artifacts/
 .dotnet/
 *.binlog
 
-DiscordBot/config.json
+Discord Bot/config.json

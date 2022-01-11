@@ -6,3 +6,5 @@ artifacts/
 .vscode/
 .dotnet/
 *.binlog
+
+DiscordBot/config.json

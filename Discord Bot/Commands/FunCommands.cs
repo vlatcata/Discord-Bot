@@ -1,10 +1,8 @@
-﻿using System;
-using System.Security.Cryptography.X509Certificates;
-using DSharpPlus.CommandsNext;
+﻿using DSharpPlus.CommandsNext;
 using DSharpPlus.CommandsNext.Attributes;
-using System.Threading.Tasks;
-using DSharpPlus.Entities;
 using DSharpPlus.Interactivity.Extensions;
+using System;
+using System.Threading.Tasks;
 
 namespace DiscordBot.Commands
 {

@@ -26,7 +26,7 @@ namespace DiscordBot
         {
             var json = string.Empty;
 
-            using (var fs = File.OpenRead(@"C:\Programming\Projects\Discord Bot\Discord Bot\Discord Bot\config.json"))
+            using (var fs = File.OpenRead(@"C:\Programming\Discord Bot\Discord bot\config.json"))
             using (var sr = new StreamReader(fs, new UTF8Encoding(false)))
                 json = await sr.ReadToEndAsync().ConfigureAwait(false);
 
